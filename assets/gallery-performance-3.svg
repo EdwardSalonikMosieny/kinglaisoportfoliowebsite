@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-label="Placeholder image for KingLaiso corporate event performance">
+  <rect width="900" height="675" fill="#12100f"/>
+  <path d="M0 0h900v675H0z" fill="url(#p)" opacity=".45"/>
+  <defs>
+    <pattern id="p" width="80" height="80" patternUnits="userSpaceOnUse">
+      <rect width="80" height="80" fill="#12100f"/>
+      <path d="M40 10l30 30-30 30-30-30z" fill="none" stroke="#d99a22" stroke-width="4"/>
+    </pattern>
+  </defs>
+  <rect x="90" y="130" width="720" height="330" rx="8" fill="#fffdf8" opacity=".9"/>
+  <rect x="130" y="180" width="300" height="34" fill="#b6161d"/>
+  <rect x="130" y="235" width="500" height="22" fill="#6f4631" opacity=".5"/>
+  <rect x="130" y="278" width="420" height="22" fill="#6f4631" opacity=".36"/>
+  <g fill="#12100f">
+    <circle cx="650" cy="255" r="48"/>
+    <path d="M618 310h64l38 118H580z"/>
+  </g>
+  <path d="M90 470h720v36H90z" fill="#b6161d"/>
+  <text x="450" y="585" text-anchor="middle" fill="#fffdf8" font-family="Arial, sans-serif" font-size="32" font-weight="800">Corporate event performance</text>
+</svg>

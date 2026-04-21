@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-label="Placeholder image for KingLaiso graduation celebration performance">
+  <rect width="900" height="675" fill="#fffdf8"/>
+  <path d="M0 0h900v675H0z" fill="#d99a22" opacity=".18"/>
+  <path d="M0 0h280v675H0z" fill="#12100f"/>
+  <path d="M280 0h36v675h-36z" fill="#b6161d"/>
+  <path d="M316 0h16v675h-16z" fill="#fffdf8"/>
+  <g transform="translate(430 150)" fill="#12100f">
+    <path d="M130 0l130 52-130 52L0 52z"/>
+    <path d="M76 104h108v60H76z"/>
+    <circle cx="130" cy="220" r="66"/>
+    <path d="M80 284h100l70 170H10z"/>
+  </g>
+  <path d="M170 128l60 60-60 60-60-60zM170 380l60 60-60 60-60-60z" fill="none" stroke="#d99a22" stroke-width="14"/>
+  <text x="590" y="604" text-anchor="middle" fill="#12100f" font-family="Arial, sans-serif" font-size="32" font-weight="800">Graduations and celebrations</text>
+</svg>

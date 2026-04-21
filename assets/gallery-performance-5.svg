@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-label="Placeholder image for KingLaiso traditional ceremony performance">
+  <rect width="900" height="675" fill="#e8d2aa"/>
+  <path d="M0 72h900v40H0z" fill="#12100f"/>
+  <path d="M0 112h900v20H0z" fill="#b6161d"/>
+  <path d="M0 132h900v14H0z" fill="#fffdf8"/>
+  <g transform="translate(250 158)">
+    <circle cx="200" cy="200" r="185" fill="#fffdf8" stroke="#b6161d" stroke-width="20"/>
+    <circle cx="200" cy="200" r="128" fill="none" stroke="#d99a22" stroke-width="14"/>
+    <circle cx="200" cy="200" r="76" fill="none" stroke="#12100f" stroke-width="10"/>
+    <g fill="#b6161d">
+      <circle cx="200" cy="15" r="11"/>
+      <circle cx="385" cy="200" r="11"/>
+      <circle cx="200" cy="385" r="11"/>
+      <circle cx="15" cy="200" r="11"/>
+    </g>
+  </g>
+  <text x="450" y="604" text-anchor="middle" fill="#12100f" font-family="Arial, sans-serif" font-size="32" font-weight="800">Traditional cultural ceremony</text>
+</svg>

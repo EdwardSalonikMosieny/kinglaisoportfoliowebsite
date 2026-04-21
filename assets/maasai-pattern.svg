@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220" role="img" aria-label="Maa inspired geometric pattern">
+  <rect width="420" height="220" fill="#12100f"/>
+  <g opacity=".96">
+    <path d="M0 20h420v18H0z" fill="#b6161d"/>
+    <path d="M0 38h420v8H0z" fill="#fffdf8"/>
+    <path d="M0 46h420v12H0z" fill="#d99a22"/>
+    <path d="M0 172h420v18H0z" fill="#b6161d"/>
+    <path d="M0 190h420v8H0z" fill="#fffdf8"/>
+    <path d="M0 198h420v12H0z" fill="#e15b23"/>
+  </g>
+  <g fill="none" stroke-width="7" opacity=".72">
+    <path d="M35 110l35-35 35 35-35 35z" stroke="#d99a22"/>
+    <path d="M140 110l35-35 35 35-35 35z" stroke="#fffdf8"/>
+    <path d="M245 110l35-35 35 35-35 35z" stroke="#d99a22"/>
+    <path d="M350 110l35-35 35 35-35 35z" stroke="#fffdf8"/>
+  </g>
+  <g fill="#b6161d" opacity=".84">
+    <circle cx="70" cy="110" r="10"/>
+    <circle cx="175" cy="110" r="10"/>
+    <circle cx="280" cy="110" r="10"/>
+    <circle cx="385" cy="110" r="10"/>
+  </g>
+</svg>

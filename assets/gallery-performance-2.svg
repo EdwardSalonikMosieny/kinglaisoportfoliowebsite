@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-label="Placeholder image for KingLaiso wedding performance">
+  <rect width="900" height="675" fill="#f8f1e3"/>
+  <path d="M0 0h900v172H0z" fill="#b6161d"/>
+  <path d="M0 172h900v20H0z" fill="#12100f"/>
+  <path d="M0 192h900v14H0z" fill="#d99a22"/>
+  <circle cx="450" cy="320" r="145" fill="#fffdf8" stroke="#d99a22" stroke-width="18"/>
+  <circle cx="450" cy="320" r="95" fill="none" stroke="#b6161d" stroke-width="12"/>
+  <g fill="#12100f" opacity=".8">
+    <circle cx="412" cy="300" r="32"/>
+    <circle cx="488" cy="300" r="32"/>
+    <path d="M390 338h44l24 100h-92z"/>
+    <path d="M466 338h44l24 100h-92z"/>
+  </g>
+  <text x="450" y="594" text-anchor="middle" fill="#12100f" font-family="Arial, sans-serif" font-size="32" font-weight="800">Wedding and ceremony moment</text>
+</svg>

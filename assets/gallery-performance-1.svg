@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-label="Placeholder image for KingLaiso live stage performance">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#12100f"/>
+      <stop offset=".55" stop-color="#7f1116"/>
+      <stop offset="1" stop-color="#d99a22"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="675" fill="url(#g)"/>
+  <path d="M0 84h900v24H0zM0 110h900v10H0zM0 124h900v18H0z" fill="#fffdf8" opacity=".76"/>
+  <path d="M0 142h900v18H0z" fill="#b6161d" opacity=".9"/>
+  <g fill="none" stroke="#d99a22" stroke-width="14" opacity=".72">
+    <path d="M110 330l80-80 80 80-80 80z"/>
+    <path d="M630 330l80-80 80 80-80 80z"/>
+  </g>
+  <g fill="#12100f" opacity=".82">
+    <circle cx="450" cy="230" r="58"/>
+    <path d="M408 290h84l58 250H350z"/>
+    <path d="M350 335l-125 92-38-45 150-112z"/>
+    <path d="M550 338l140 88 34-48-165-108z"/>
+  </g>
+  <text x="450" y="605" text-anchor="middle" fill="#fffdf8" font-family="Arial, sans-serif" font-size="32" font-weight="800">Replace with real performance photo</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-label="Placeholder image for KingLaiso festival performance">
+  <rect width="900" height="675" fill="#7f1116"/>
+  <circle cx="450" cy="250" r="210" fill="#d99a22" opacity=".28"/>
+  <path d="M0 438c136-54 254-48 354 18s215 70 352 4 194-78 194-78v293H0z" fill="#12100f"/>
+  <g fill="#fffdf8" opacity=".78">
+    <circle cx="90" cy="485" r="18"/>
+    <circle cx="180" cy="508" r="18"/>
+    <circle cx="270" cy="488" r="18"/>
+    <circle cx="360" cy="520" r="18"/>
+    <circle cx="540" cy="505" r="18"/>
+    <circle cx="630" cy="488" r="18"/>
+    <circle cx="720" cy="512" r="18"/>
+    <circle cx="810" cy="492" r="18"/>
+  </g>
+  <g fill="#12100f">
+    <circle cx="450" cy="210" r="52"/>
+    <path d="M410 268h80l52 190H358z"/>
+  </g>
+  <path d="M316 330l-95-92" stroke="#fffdf8" stroke-width="24" stroke-linecap="round"/>
+  <path d="M584 330l98-82" stroke="#fffdf8" stroke-width="24" stroke-linecap="round"/>
+  <text x="450" y="620" text-anchor="middle" fill="#fffdf8" font-family="Arial, sans-serif" font-size="32" font-weight="800">Festival and concert energy</text>
+</svg>
